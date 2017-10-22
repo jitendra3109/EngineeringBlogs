@@ -1,4 +1,4 @@
-##                    Engineering Blog
+##                           Engineering Blog 
 
 Most popular tech org blog with latest technology update.
 
@@ -44,6 +44,9 @@ Most popular tech org blog with latest technology update.
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 * [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
 
+### Share and star repo
+
+If you find worth it then please star and share it.
 
 ## Your Contribution Most Welcome
  
