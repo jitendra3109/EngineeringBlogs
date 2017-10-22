@@ -1,6 +1,6 @@
 ##                    Engineering Blog
 
-Most popular tech zaint blog with latest technology update.
+Most popular tech org blog with latest technology update.
 
 * [Airbnb Engineering](http://nerds.airbnb.com/)
 * [Atlassian Developers](https://developer.atlassian.com/blog/)
@@ -47,4 +47,4 @@ Most popular tech zaint blog with latest technology update.
 
 ## Your Contribution Most Welcome
  
-Please send PR if you find some important but please atleast once see the [contribute guide]().
+Please send PR if you find some important but please atleast once see the [contribute guide](https://github.com/jsroyal/EngineeringBlog/blob/master/CONTRIBUTING.md).
