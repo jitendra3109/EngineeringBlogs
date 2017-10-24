@@ -1,4 +1,4 @@
-##                           Engineering Blog 
+##                           Engineering Blog
 
 Most popular tech org blog with latest technology update.
 
@@ -49,5 +49,5 @@ Most popular tech org blog with latest technology update.
 If you find worth it then please star and share it.
 
 ## Your Contribution Most Welcome
- 
-Please send PR if you find some important but please atleast once see the [contribute guide](https://github.com/jsroyal/EngineeringBlog/blob/master/CONTRIBUTING.md).
+
+Please send PR if you find some important but please at least once see the [contribute guide](https://github.com/jsroyal/EngineeringBlog/blob/master/CONTRIBUTING.md).
