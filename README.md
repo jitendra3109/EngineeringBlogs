@@ -1,4 +1,4 @@
-##                           Engineering Blog 
+##                           Engineering Blog
 
 Most popular tech org blog with latest technology update.
 
@@ -27,6 +27,7 @@ Most popular tech org blog with latest technology update.
 * [Intel Software Blog](https://software.intel.com/en-us/blogs/)
 * [Jane Street Tech Blog](https://blogs.janestreet.com/category/ocaml/)
 * [LinkedIn Engineering](http://engineering.linkedin.com/blog)
+* [Medium Engineering](https://medium.engineering/)
 * [Microsoft Engineering](https://engineering.microsoft.com/)
 * [Microsoft Python Engineering](https://blogs.msdn.microsoft.com/pythonengineering/)
 * [Netflix Tech Blog](http://techblog.netflix.com/)
@@ -44,11 +45,13 @@ Most popular tech org blog with latest technology update.
 * [Yahoo Engineering Blog](http://yahooeng.tumblr.com/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 * [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
+* [Apple Swift Blog](https://swift.org/blog/)
+* [Apple Machine Learning Blog](https://machinelearning.apple.com)
 
 ### Share and star repo
 
 If you find worth it then please star and share it.
 
 ## Your Contribution Most Welcome
- 
+
 Please send PR if you find some important but please at least once see the [contribute guide](https://github.com/jsroyal/EngineeringBlog/blob/master/CONTRIBUTING.md).
