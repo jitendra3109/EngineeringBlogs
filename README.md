@@ -41,6 +41,7 @@ Most popular tech org blog with latest technology update.
 * [Twilio Engineering Blog](http://www.twilio.com/engineering)
 * [Twitter Engineering](https://engineering.twitter.com/)
 * [Uber Engineering Blog](http://eng.uber.com/)
+* [Wikimedia Engineering Blog](https://blog.wikimedia.org/)
 * [Yahoo Engineering Blog](http://yahooeng.tumblr.com/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 * [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
