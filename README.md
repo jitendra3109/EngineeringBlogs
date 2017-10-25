@@ -43,6 +43,8 @@ Most popular tech org blog with latest technology update.
 * [Yahoo Engineering Blog](http://yahooeng.tumblr.com/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 * [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
+* [Apple Swift Blog](https://swift.org/blog/)
+* [Apple Machine Learning Blog](https://machinelearning.apple.com)
 
 ### Share and star repo
 
