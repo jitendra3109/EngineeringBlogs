@@ -3,6 +3,7 @@
 Most popular tech org blog with latest technology update.
 
 * [Airbnb Engineering](http://nerds.airbnb.com/)
+* [AMD Blog](http://developer.amd.com/community/blog/)
 * [Atlassian Developers](https://developer.atlassian.com/blog/)
 * [Autodesk Engineering](http://cloudengineering.autodesk.com/blog/)
 * [AWS Blog](https://aws.amazon.com/blogs/aws/)
