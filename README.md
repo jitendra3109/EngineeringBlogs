@@ -10,6 +10,7 @@ Most popular tech org blog with latest technology update.
 * [Bitly Engineering Blog](http://word.bitly.com/)
 * [Box Blogs](https://www.box.com/blog/engineering/)
 * [Cloudera Developer Blog](http://blog.cloudera.com/blog/)
+* [Codecademy Engineering Blog](https://medium.com/about-codecademy)
 * [Digital Ocean Engineering Blog](https://blog.digitalocean.com/tag/engineering/)
 * [Docker Engineering Blog](https://blog.docker.com/category/engineering/)
 * [Dropbox Tech Blog](https://tech.dropbox.com/)
