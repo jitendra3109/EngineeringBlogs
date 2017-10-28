@@ -4,6 +4,8 @@ Most popular tech org blog with latest technology update.
 
 * [Airbnb Engineering](http://nerds.airbnb.com/)
 * [AMD Blog](http://developer.amd.com/community/blog/)
+* [Apple Machine Learning Blog](https://machinelearning.apple.com)
+* [Apple Swift Blog](https://swift.org/blog/)
 * [Atlassian Developers](https://developer.atlassian.com/blog/)
 * [Autodesk Engineering](http://cloudengineering.autodesk.com/blog/)
 * [AWS Blog](https://aws.amazon.com/blogs/aws/)
@@ -50,8 +52,6 @@ Most popular tech org blog with latest technology update.
 * [Yahoo Engineering Blog](http://yahooeng.tumblr.com/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 * [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
-* [Apple Swift Blog](https://swift.org/blog/)
-* [Apple Machine Learning Blog](https://machinelearning.apple.com)
 
 ### Share and star repo
 
