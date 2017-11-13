@@ -2,6 +2,7 @@
 
 Most popular tech org blog with latest technology update.
 
+* [500px Engineering Blog](https://developers.500px.com/)
 * [Airbnb Engineering](http://nerds.airbnb.com/)
 * [AMD Blog](http://developer.amd.com/community/blog/)
 * [Apple Machine Learning Blog](https://machinelearning.apple.com)
@@ -52,6 +53,7 @@ Most popular tech org blog with latest technology update.
 * [Wikimedia Engineering Blog](https://blog.wikimedia.org/)
 * [Yahoo Engineering Blog](http://yahooeng.tumblr.com/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
+* [Zomato Engineering Blog](https://www.zomato.com/blog/category/engineering)
 * [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
 
 ### Share and star repo
