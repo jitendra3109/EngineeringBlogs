@@ -56,10 +56,10 @@ Most popular tech org blog with latest technology update.
 * [Zomato Engineering Blog](https://www.zomato.com/blog/category/engineering)
 * [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
 
-### Share and star repo
+### Thanks
 
 If you find worth it then please star and share it.
 
-## Your Contribution Most Welcome
+## Most Welcome, your opne source Contribution 
 
 Please send PR if you find some important but please at least once see the [contribute guide](https://github.com/jsroyal/EngineeringBlog/blob/master/CONTRIBUTING.md).
