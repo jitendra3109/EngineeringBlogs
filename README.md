@@ -14,6 +14,7 @@ Most popular tech org blog with latest technology update.
 * [Box Blogs](https://www.box.com/blog/engineering/)
 * [Cisco Engineering Blog](https://blogs.cisco.com/tag/engineering)
 * [Cloudera Developer Blog](http://blog.cloudera.com/blog/)
+* [Confluent Blog](https://www.confluent.io/blog/)
 * [Digital Ocean Engineering Blog](https://blog.digitalocean.com/tag/engineering/)
 * [Docker Engineering Blog](https://blog.docker.com/category/engineering/)
 * [Dropbox Tech Blog](https://tech.dropbox.com/)
