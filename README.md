@@ -36,7 +36,7 @@ Most popular tech org blog with latest technology update.
 * [Jane Street Tech Blog](https://blogs.janestreet.com/category/ocaml/)
 * [Lifehacker Engineering](https://lifehacker.com/tag/engineering)
 * [LinkedIn Engineering](http://engineering.linkedin.com/blog)
-* [Mashable Engineering](https://http://mashable.com/category/engineering/)
+* [Mashable Engineering](https://mashable.com/category/engineering/)
 * [Medium Engineering](https://medium.engineering/)
 * [Microsoft Engineering](https://engineering.microsoft.com/)
 * [Microsoft Python Engineering](https://blogs.msdn.microsoft.com/pythonengineering/)
