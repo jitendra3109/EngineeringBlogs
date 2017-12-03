@@ -1,6 +1,6 @@
 ##                           Engineering Blog
 
-Most popular tech org blog with latest technology update.
+Most popular tech org blogs with latest technology update.
 
 * [500px Engineering Blog](https://developers.500px.com/)
 * [Airbnb Engineering](http://nerds.airbnb.com/)
@@ -62,8 +62,8 @@ Most popular tech org blog with latest technology update.
 
 ### Thanks
 
-If you find worth it then please star and share it.
+If you find worth,please star and share it amoung your community.
 
-## Most Welcome, your opne source Contribution 
+## Most Welcome, your Contribution. 
 
-Please send PR if you find some important but please at least once see the [contribute guide](https://github.com/jsroyal/EngineeringBlog/blob/master/CONTRIBUTING.md).
+Please send PR if you find something important and also please see the [contribute guide](https://github.com/jsroyal/EngineeringBlog/blob/master/CONTRIBUTING.md).
