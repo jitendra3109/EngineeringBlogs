@@ -32,7 +32,7 @@ The preferred way to contribute is to fork the
 4. Work on this copy on your computer using Git to do the version control. When you're done editing, run the following to record your changes in Git:
 
         $ git add modified_files
-        $ git commit
+        $ git commit -m <message should be give overview of commit>
 
 5. Push your changes to GitHub with:
 
