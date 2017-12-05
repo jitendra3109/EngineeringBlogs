@@ -40,6 +40,8 @@ The preferred way to contribute is to fork the
 
 6. Finally, go to the web page of your fork of the `EnineeringBlog` repo and click 'Pull Request' to send your changes for review.
 
+7.At least little bit explain about PR in discription block. for e.g. add links
+
 ### GitHub Pull Requests Docs
 
 If you are not familiar with pull requests, review the [pull request docs](https://help.github.com/articles/using-pull-requests/).
