@@ -44,6 +44,7 @@ Most popular tech org blogs with latest technology update.
 * [NVIDIA Blog](https://blogs.nvidia.com)
 * [Paypal Developer Blog](https://devblog.paypal.com/category/engineering/)
 * [Pinterest Engineering Blog](http://engineering.pinterest.com/)
+* [Qualcomm Engineering](https://www.qualcomm.com/news/onq)
 * [Quora Engineering](https://engineering.quora.com/)
 * [Reddit Blog](http://www.redditblog.com/)
 * [Red Hat developer Blog](https://developers.redhat.com/blog)
