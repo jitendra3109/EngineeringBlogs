@@ -51,6 +51,7 @@ Most popular tech org blog with latest technology update.
 * [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
 * [Apple Swift Blog](https://swift.org/blog/)
 * [Apple Machine Learning Blog](https://machinelearning.apple.com)
+* [NuBank Tech Blog](https://medium.com/building-nubank)
 
 ### Share and star repo
 
